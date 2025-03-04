@@ -56,5 +56,6 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 ## License
 This project is licensed under the MIT License.
 
-## Acknowledgements
-- The dataset used in this project is provided by **Adel Mukashova** on kaggle at: https://www.kaggle.com/datasets/adelmm/food-classification
+## Acknowledgments
+- The dataset used in this project is provided by **Adel Mukashova** on Kaggle. You can find it here: [Food Classification Dataset](https://www.kaggle.com/datasets/adelmm/food-classification). This dataset is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
